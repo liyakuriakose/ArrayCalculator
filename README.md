@@ -1,4 +1,4 @@
-# ToyRobot
+# ArrayCalCulator
 
 This is an API in .Net Core MVC to do basic array manipulation.
 
@@ -6,8 +6,7 @@ This is an API in .Net Core MVC to do basic array manipulation.
     
     1. Reversing the array 
     
-    /api/arraycalc/reverse?productIds=1&amp;productIds=2&amp;productIds=3&amp;productIds=4&amp;prod
-uctIds=5
+    /api/arraycalc/reverse?productIds=1&amp;productIds=2&amp;productIds=3&amp;productIds=4&amp;productIds=5
 
     2.Removing the element at position
 
@@ -20,8 +19,7 @@ uctIds=5
 
 ### Example 1
 
-     /api/arraycalc/reverse?productIds=1&amp;productIds=2&amp;productIds=3&amp;productIds=4&amp;prod
-uctIds=5
+     /api/arraycalc/reverse?productIds=1&amp;productIds=2&amp;productIds=3&amp;productIds=4&amp;productIds=5
 
 Expected output:
 
